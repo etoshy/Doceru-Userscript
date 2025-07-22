@@ -8,11 +8,29 @@ Scripts de Tampermonkey para facilitar o download de documentos dos sites:
 
 Estes scripts adicionam um botão de **“Baixar Arquivo”** diretamente na página do documento, com progresso e nome do arquivo personalizado.
 
+---
+
 ## ✅ Funcionalidades
 
 * Detecta automaticamente o link de download real.
 * Mostra barra de progresso durante o download.
 * Adiciona um botão visível e acessível diretamente na interface.
+
+---
+
+## 🖼️ Exemplos Visuais
+
+### 📄 docer.ar / docubra.com
+
+Botão adicionado pelo script:
+
+![Botão Docubra](1.png)
+
+### 📑 doceru.com
+
+Botão com ícone e progresso:
+
+![Botão Doceru](2.png)
 
 ---
 
@@ -26,6 +44,8 @@ O Tampermonkey é uma extensão de navegador que permite instalar scripts de usu
 * [🌐 Chrome/Edge/Opera](https://www.tampermonkey.net/)
 
 Clique no link acima correspondente ao seu navegador e instale a extensão normalmente.
+
+---
 
 ### 2. Instalar os scripts
 
@@ -41,7 +61,7 @@ Clique no link acima correspondente ao seu navegador e instale a extensão norma
 
 * [Clique aqui para instalar o script `doceru.js`](./doceru.js)
 
-> **Dica**: Você pode abrir os arquivos manualmente no navegador após instalar o Tampermonkey, e ele oferecerá instalar o script automaticamente.
+> 💡 **Dica**: Você pode abrir os arquivos manualmente no navegador após instalar o Tampermonkey, e ele oferecerá instalar o script automaticamente.
 
 ---
 
@@ -60,10 +80,6 @@ Scripts escritos por **Etoshy**, focados em interceptação de requisições `fe
 
 ---
 
-## ❗ Aviso
+## ⚠️ Aviso
 
 Esses scripts são para fins educacionais. Use com responsabilidade e respeite os termos de uso dos sites.
-
----
-
-Se quiser, posso gerar também a versão em inglês ou empacotar os scripts para instalação via [GreasyFork](https://greasyfork.org). Deseja isso?
